@@ -1,6 +1,6 @@
 # FIRESNOW®
 
-[![FIRESNOW Logo](https://github.com/1abcdesign/fireSnow/blob/main/screenshot.png)](https://vadym4che.github.io/fireSnow/)
+[![FIRESNOW Logo](https://github.com/vadim4web/fireSnow/blob/main/screenshot.png)](https://vadim4web.github.io/fireSnow/)
 
 FIRESNOW® is a visually engaging web page featuring falling snowflakes and colorful text animations. This README provides an overview of the project and its key features.
 
@@ -43,5 +43,5 @@ To experience FIRESNOW®:
 
 ## Author
 
-(č) Vadym Chervoniak-Bogdanov
+© Vadym Chervoniak
 
